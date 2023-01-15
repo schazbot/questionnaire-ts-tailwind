@@ -45,5 +45,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 =======
-# questionnaire-ts-tailwind
->>>>>>> 172b54994357217510c45597f7bf66d49b6fa77e
